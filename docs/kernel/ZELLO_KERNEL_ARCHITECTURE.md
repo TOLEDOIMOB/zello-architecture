@@ -1,4 +1,4 @@
-ZELLO Kernel Architecture — v0.1
+ZELLO Kernel Architecture — v0.1.
 📜 Definição
 
 O Kernel ZELLO é o núcleo estrutural responsável por:
